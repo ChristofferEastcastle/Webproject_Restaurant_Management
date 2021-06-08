@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meny</title>
+    <link rel="shortcut icon" href="/images/pizza.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/public/style.css">
+    <link rel="stylesheet" href="/public/cards.css">
+    <script src="/scripts/meny.js" type="module"></script>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,400&display=swap');</style>
+</head>
+<body class="bg-gray-200 font-montserrat">
+    
+    <!-- Main Navbar-->
+    <header class="mb-32 lg:mb-64">
+    </header>
+    <main class="page-margin">
+
+    <!-- Status messages -->
+    <div id="statusOutput"> </div>
+
+
+    <!-- Add Pizza buttons-->
+
+    <button id="inputPizza" class="bg-red-600 hover:bg-red-400 h-16 w-16 p-4 flex content-center text-white justify-center rounded-full fixed bottom-32 z-10 right-8 hover:shadow-2xl focus:outline-none">
+        <img src="../icons/hamburger-solid.svg" alt ="Add Pizza Icon">
+    </button>
+    <button id="inputDrink" class="bg-red-600 hover:bg-red-400 h-16 w-16 p-4 flex content-center text-white justify-center rounded-full fixed bottom-10 z-10 right-8 hover:shadow-2xl focus:outline-none">
+        <img src="../icons/beer-solid.svg" alt ="Add Drink Icon">
+    </button>
+
+    <!-- Add Pizza form -->
+    <div id="addFormPizza" class="hidden lg:w-96 h-100 lg:top-1/3 left-2/4 fixed z-10">
+        
+        <form class="flex flex-col m-5 relative -left-2/4" action="#">
+            
+            <div class="flex flex-col bg-white pt-12 px-12 rounded-t-3xl shadow-2xl">
+                <h2 class="subtitle text-center">Legg til pizza</h2>
+                <label for="pizzaName">Navn</label><input id="pizzaName" name = "name" class="bg-gray-200 h-12 p-2 rounded-lg mb-6" type = "text" value="">
+                <label for="pizzaIngredients">Ingredienser </label><input id="pizzaIngredients" name = "ingredients" class="bg-gray-200 h-12 rounded-lg p-2 mb-5" type="text"  placeholder='Separer med mellomrom'>
+          
+            <fieldset class="mb-5">
+                <legend class="mb-2">Allergier</legend>
+                <label for="gluten">Gluten <input id="gluten" name="allergies" class = "bg-gray-200 mr-3" type="checkbox" value="gluten"></label>
+                <label for="fish">Fisk <input id="fish" name="allergies" class = "bg-gray-200 mr-3" type="checkbox" value="fish"></label>
+                <label for="milk">Melk <input id="milk" name="allergies" class = "bg-gray-200" type="checkbox" value="milk"></label>
+            </fieldset>    
+    
+            </div>
+            <div class="flex ">
+                <div class="flex justify-center bg-gray-800 hover:bg-gray-900 h-24 w-full rounded-bl-3xl">
+                    <button id="cancelButtonPizza" type='button' class="text-white focus:outline-none">Avbryt</button>
+                </div>
+                <div class="flex justify-center w-32 bg-gray-800 hover:bg-gray-900 h-24 rounded-br-3xl w-full">
+                    <button id="saveButtonPizza" type="button" class="text-white focus:outline-none">Lagre</button>
+                </div>
+            </div>
+        
+        </form>
+    </div>
+    
+    <!-- Add Drink Form-->
+    <div id="addFormDrink" class=" hidden lg:w-96 h-100 lg:top-1/3 left-2/4 fixed z-10">
+        <form class="flex flex-col m-5 relative -left-2/4"action="#">
+            
+            <div class="bg-white pt-12 px-12 rounded-t-3xl shadow-2xl">
+                <h2 class="subtitle text-center">Legg til drink</h2>
+                <label for="drinkName">Navn</label><input id="drinkName" name = "name" class="bg-gray-200 h-12 p-2 rounded-lg mb-6" type = "text" value="">
+                <label for="drinkIngredients">Notat</label><input id="drinkIngredients" name = "ingredients" class="bg-gray-200 h-12 rounded-lg p-2 mb-8" type="text">
+            </div>
+            <div class="flex">
+            <div class= "flex justify-center bg-gray-800 hover:bg-gray-900 h-24 w-full rounded-bl-3xl">
+                <button id="cancelButtonDrink" type='button' class="text-white focus:outline-none">Avbryt</button>
+            </div>
+            <div class="flex justify-center w-32 bg-gray-800 hover:bg-gray-900 h-24 rounded-br-3xl w-full">
+                <button id="saveButtonDrink" type="button" class="text-white focus:outline-none">Lagre</button>
+            </div>
+        </div>
+        
+        </form>
+    </div>
+    <!-- Text -->
+    <section class="flex flex-col lg:flex-row mb-48">
+        <div class="container mr-8 mb-32 lg:mb-0">
+            <h1 class="title">Forklaring</h1>
+            <p class="text">Allergiene er forklart med symboler, som går igjen på hver rett. En rett kan ha flere allergier, og betyr at retten kan inneholde spor som allergikere kan reagere på.</p>
+        </div>
+        <div class="container font-light flex flex-row justify-evenly items-center">
+          <figure class="flex flex-col">
+            <img class="h-8 mb-5" src="../icons/bread-slice-solid.svg" alt="">
+            <p class="uppercase">Gluten</p>
+        </figure>
+        <figure class="flex flex-col">
+            <img class="h-8 mb-5" src="../icons/fish-solid.svg" alt="">
+            <p class="uppercase">fisk</p>
+        </figure>
+        <figure class="flex flex-col">
+            <img class="h-8 mb-5" src="../icons/tint-solid.svg" alt="">
+            <p class="uppercase">melk</p>
+        </figure>
+        </div>
+
+    </section>
+  <!-- Submenu-->
+    <section class="submenu my-8">
+        <ul class="flex justify-center space-x-6 flex-row">
+            <li><a href="#mat" class= "menu-animation" >Mat</a></li>
+            <li><a href="#drikke" class= "menu-animation">Drikke</a></li>
+        </ul>
+    </section>
+
+    <!-- Pizza's -->
+    <section id="mat" class="mb-32">
+        <h2 class="subtitle">Mat</h2>
+        <div class="card" id="foodOutput"></div>
+    </section>
+
+    <!-- Drink's  -->
+     <section id="drikke" class="mb-8">
+        <h2 class="subtitle">Drikke</h2>
+        <div id="drinkOutputDiv"></div>
+    </section>
+</main>
+</body>
+</html>

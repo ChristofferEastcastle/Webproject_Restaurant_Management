@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ansatte</title>
+    <link rel="shortcut icon" href="/images/pizza.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/public/style.css">
+    <link rel="stylesheet" href="/public/cards.css">
+    <script src="/scripts/employees.js" type="module"></script>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,400&display=swap');</style>
+</head>
+<body class="bg-gray-200 grid grid-rows-12 font-montserrat">
+    <header class="mb-32"></header>   
+    <main class="page-margin">
+
+        <!-- SORTER -->
+        <section class="container flex flex-col items-center lg:flex-row lg:justify-center mx-auto mb-10">
+            <div class="mb-5 lg:mr-10 lg:mb-0">
+                <label for="searchInput" class="self-right text-gray-800">SØK PÅ NAVN:</label>
+                <input class="p-2 rounded-md h-10 bg-gray-200 hover:bg-gray-100 border border-gray-800 ml-2 " id="searchInput" type="text">
+            </div>
+            
+            <div>
+                <label for="selector">SORTER ETTER:</label>
+                <select class="ml-2 appearance-none text-center font-montserrat rounded-md h-10 bg-gray-200 hover:bg-gray-100 border border-gray-800 px-6" name="employees" id="selector">
+                    <option value="All">Alle</option>
+                    <optgroup class="font-montserrat " label="Restaurant:">
+                        <option value="Bystasjonen">Bystasjonen</option>
+                        <option value="Lagunen">Lagunen</option>
+                        <option value="Straume">Straume</option>
+                        <option value="Åsane">Åsane</option>
+                    </optgroup>    
+                </select>
+            </div>
+        </section>
+    
+        <!-- ADD NEW EMPLOYEE -->
+        <button id="addNewEmployeeBtn" class="bg-red-600 hover:bg-red-400 h-16 w-16 p-4 flex content-center text-white justify-center rounded-full z-10 fixed bottom-8 right-8 focus:outline-none">
+            <img src="../icons/user-plus-solid.svg" alt="Add new employee Icon">
+        </button>
+        
+        <!-- EMPLOYEE CARDS -->
+        <section class="container mx-auto">
+            <div class="flex flex-wrap justify-evenly" id="employeeCardElement"></div>
+        </section>
+
+        <!-- Statusbeskjed -->
+    <div id="statusOutput"> </div>
+
+        <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 justify-center items-center" id="modal-id">
+            <div class="relative w-auto my-6 mx-auto max-w-3xl">
+              <!--content-->
+              <div class="border-0 rounded-lg  relative flex flex-col w-full bg-white ">
+                <!--header-->
+                <div class="flex items-start justify-between p-5">
+                  <h3 class="text-3xl font-semibold">
+                    Er du sikker på du vil slette?
+                  </h3>
+                </div>
+                <!--body-->
+                <div class="relative p-6 flex-auto">
+                  <p class="my-4 text-lg">
+                    Er du sikker på du vil slette denne ansatte? Dette kan ikke angres!
+                  </p>
+                </div>
+                <!--footer-->
+                <div class="flex items-center justify-end p-6">
+                  <button class="font-bold uppercase px-6 py-2 mr-1 mb-1 focus:outline-none" type="button" id="modalCloseBtn" onclick="toggleModal('modal-id')">
+                    Lukk
+                  </button>
+                  <button class="bg-red-500 text-white font-bold uppercase px-6 py-3 rounded mr-1 mb-1 focus:outline-none" id="modalDeleteBtn" type="button" onclick="toggleModal('modal-id')">
+                    Slett
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal-id-backdrop"></div>
+         <!-- End of modal-->
+
+         <section>
+          <div class="hidden" id="addEmployeeElement"></div>
+        </section>
+    </main>
+   
+</body>
+</html>

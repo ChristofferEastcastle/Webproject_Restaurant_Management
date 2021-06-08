@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salg</title>
+    <link rel="shortcut icon" href="/images/pizza.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/public/style.css">
+    <style>@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,400&display=swap');</style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="/scripts/sales.js" type="module"></script>
+    
+</head>
+<body class="bg-gray-200 font-montserrat overflow-y-scroll">
+    <header class="mb-16 lg:mb-32"></header>
+
+    <main class="page-margin">
+        <!--Navigasjon-->
+        <nav class="submenu">
+            <ul class=" flex flex-col md:flex-row justify-evenly mb-12 text-center">
+                <li>
+                    <button id="salesLink" class="menu-animation border-b-2 border-red-400 uppercase focus:outline-none">Salg</button>
+                </li>
+                <li>
+                    <button id="costsLink" class="menu-animation uppercase focus:outline-none">Kostnader</button>
+                </li>
+                <li>
+                    <button id="resultsLink" class="menu-animation uppercase focus:outline-none">Resultat</button>
+                </li>
+            </ul>
+        </nav>
+
+        
+        
+        <!--Nøkkeltall-->
+        <section class="flex flex-col mb-16 justify-center  md:flex-row">
+            <div id="mostSoldPizzaElement" class="w-1/1 flex flex-col m-2 md:flex-col md:w-1/4 justify-center text-center bg-white h-36 rounded-2xl shadow p-4"></div>
+            <div id="averageProfitElement" class="w-1/1 flex flex-col m-2 md:w-1/4 justify-center text-center bg-white h-36 rounded-2xl shadow p-4"></div>
+            <div id="revenueProsentage" class="w-1/1 flex flex-col m-2 md:w-1/4 justify-center text-center bg-white h-36 rounded-2xl shadow p-4"></div>
+            <div class="w-1/1 flex flex-col m-2 md:w-1/4 justify-center text-center bg-white h-36 rounded-2xl shadow p-4">
+                <h1 id="totalRevenuYearHead" class="text-3xl font-semibold"></h1>
+                <p id="overUnderRevenue" class="text"></p>
+            </div>
+        </section>
+
+        <!--Hovedinnhold salg-->
+        <div id="sales-wrapper" class="relative">
+
+            <section id="salesContent" class="flex-col flex mt-16 space-x-4 md:flex-row absolute ">
+                <div class="flex w-1/1 md:w-1/2  h-auto flex-col overflow-hidden">
+                    <h1 class="pl-4 pt-4 title ">Salg</h1>
+                    <p class="p-4 text">
+                        Denne siden viser en oversikt over Gyldne Pizzas salg. 
+                        Nøkkeltallene viser hvor mange pizza som er solgt per dag. Grafen på siden her viser en 
+                        oversikt over hvordan salget har gått så langt i år.
+                    </p>
+                </div>
+                <!-- Sales chart big-->
+                <div class="flex flex-col md:flex-row items-center md:justify-evenly md:w-1/2 border-gray-800 ">
+                    <div class="bg-white rounded-lg shadow-md mb-16 md:w-full">
+                        <div class="p-5">
+                        
+                            <canvas id="salesChartMain"></canvas>
+                        </div>
+                        <div class="pb-5">
+                            <p class="font-sans text-center">TOTALT SALG FORDELT PÅ MÅNED</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Cost section-->
+            <section id="costsContent" class="flex flex-col md:flex-row justify-evenly absolute hidden w-full space-x-6" > 
+                <div class="bg-white rounded-lg shadow-md flex w-1/1 md:w-1/2 h-auto flex-col justify-evenly pb-5 mb-12 md:mb-0">
+                    <h1 class="px-10 pt-4 title">
+                        Kostander så langt i år
+                    </h1>
+                    <ul class="pl-8 pt-6 space-y-4 flex flex-col">
+                        <li>
+                            <div class="flex flex-row items-center">
+                                <div class="w-4 h-4 bg-blue-400 mr-4 rounded"></div>
+                                <p id="materialCost"></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex flex-row items-center">
+                                <div class="w-4 h-4 bg-yellow-400 mr-4 rounded"></div>
+                                <p id="personnelExpenses"></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex flex-row items-center">
+                                <div class="w-4 h-4 bg-red-400 mr-4 rounded"></div>
+                                <p id="marketing"></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex flex-row items-center">
+                                <div class="w-4 h-4 bg-green-400 mr-4 rounded"></div>
+                                <p id="drivingExpenses"></p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex flex-row items-center">
+                                <div class="w-4 h-4 bg-purple-400 mr-4 rounded"></div>
+                                <p id="rent"></p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="bg-white rounded-lg shadow-md flex md:flex-col w-1/1 md:w-1/2">
+                    <canvas id="costChart" class="flex w-1/1 md:1/2 justify-center p-4" ></canvas>
+                </div>
+            </section>
+            <!-- Result section-->
+            <section id=resultsContent class="flex flex-col items-center md:justify-evenly absolute hidden w-full">
+                <div class="flex flex-col md:flex-row md:w-full justify-evenly items-center">
+                    <div class="bg-white rounded-lg shadow-md mb-16 md:w-1/2 min-w-full md:min-w-0" >
+                        <div class="p-5 min-w-full">
+                            <canvas id="result-chart-main"></canvas>
+                        </div>
+                        <div class="pb-5">
+                            <p class="font-sans text-center">TOTALT RESULTAT I ÅR</p>
+                        </div>
+                    </div>
+                    <div class="mb-8">
+                        <div class="bg-white rounded-full m-0 p-6 w-56 h-56 flex justify-center items-center">
+                            <div id="prosentResultLastMonth" class="flex flex-row title m-0">
+
+                        </div>
+                    </div> 
+                    </div>
+                </div>
+                <div class="justify-center">
+                        <div class="flex flex-col md:flex-row flex-wrap justify-evenly items-center" id="resturantSection"></div>
+                </div>
+            </section>
+        </div>
+        </main>
+    </body>
+    </html>
+    
