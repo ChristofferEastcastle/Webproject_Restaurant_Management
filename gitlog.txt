@@ -1,0 +1,2024 @@
+commit c15b1a79564d652b724ba398be58a63d82baf3b6
+Merge: 685e312 9359851
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 12:41:56 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 685e3125c4711cc4119e7ac019c0e9c1514c8da7
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 12:41:12 2021 +0200
+
+    Small changes
+
+commit 9359851ce82c1dc74e923a14053fe822f47c99f4
+Merge: 266c35b 4b1792a
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Mon May 31 12:12:28 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 266c35b7eadd1c8bb088aff17b08a8114f5ac7a7
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Mon May 31 12:12:19 2021 +0200
+
+    Minor CSS changes on sales page
+
+commit 4b1792a63a109e6a233f9dd82fd13a8efcae5aa2
+Merge: f7fa975 99fa1ae
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 12:09:49 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 2b643078ba982749a0e145fc2d1608a7622d9233
+Merge: ca52af6 99fa1ae
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Mon May 31 12:09:44 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit ca52af680a3149f28274327a174f6ee9c9754bed
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Mon May 31 12:09:35 2021 +0200
+
+    Css changes to fix sales page
+
+commit f7fa975fec5feb79259d23bf1a9c683d3a94682c
+Merge: 28c56c2 8e0763e
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 12:09:04 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 99fa1ae5916c8b90bb8940f3357fdeef448b408c
+Merge: 5182202 8e0763e
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 12:08:20 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 51822023502c9dca382413c84549c6b98ce94aec
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 12:08:17 2021 +0200
+
+    Small text change
+
+commit 28c56c2c6d43cf9b026389f3f97e779097106b78
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 12:05:44 2021 +0200
+
+    Validated all hmtl files.
+
+commit 8e0763e4aebdd4d0c36890ab5d4ededeccbb740a
+Author: Christoffer <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Mon May 31 11:20:29 2021 +0200
+
+    fixed navbar issue from restaurant page
+
+commit b2b05396276044a624285ec3ef5e89f0791afb04
+Author: Christoffer <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Mon May 31 10:53:22 2021 +0200
+
+    changed from let to const where needed
+
+commit 80611be9fbd603f8565b37fb54d215d6031c3af2
+Merge: 6f303bc e6499ba
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Mon May 31 10:25:13 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 6f303bc7e443cb672cc003c5b34c3bf76973b0d0
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Mon May 31 10:24:57 2021 +0200
+
+    Update meny.html
+
+commit e6499badbc42ceded23ecb61e1b03ea75548fe10
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 10:09:25 2021 +0200
+
+    minor changes to sales.html
+
+commit c0b3497f74954d7d7a84f1d67ededfa6470a69c6
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 09:59:54 2021 +0200
+
+    Removed unused files and renamed a few.
+
+commit 341fbdc22124c40c02e71558438eb538b0d7a719
+Merge: 0cf12aa 075f40c
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 09:50:39 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 0cf12aacaa336039ccfcefde8f207436e85e43bb
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 09:50:35 2021 +0200
+
+    Small changes
+
+commit 075f40c5de8eceb2d0e5411d5480fae74d3c28e7
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 31 09:27:02 2021 +0200
+
+    Removed logout function and som commented lines on index
+
+commit 9604d2eb8ad748fb15df40173e2992efec13efdc
+Merge: 65aece3 a8d7acc
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 09:23:47 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 65aece347a3bb5db19fd1cf92703316cc6dc3ce2
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Mon May 31 09:23:07 2021 +0200
+
+    Hepp! Trying a safari fix
+
+commit a8d7accce820873fc6308da260a027545c55cd88
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 23:59:05 2021 +0200
+
+    added validation to new items, can be reverted if not cool
+
+commit 5f205c818fe2f6e479b921a3f3afc9a25a51081f
+Merge: 81a6755 9618dc6
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sun May 30 23:07:12 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 9618dc679e9e643da52bb6af7575c9e1aabd6f84
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 22:13:18 2021 +0200
+
+    fixed reload bug on restaurant page. foookin hashtag
+
+commit 81a67555b193be2bc3477bae0ce9c6357e06217b
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 22:13:18 2021 +0200
+
+    fixed reload bug on restaurant page. foookin hashtag
+
+commit eba4e305f055b5c280dbb19407a2d14e074f15e0
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 21:38:15 2021 +0200
+
+    can now only add either a pizza or a drink at one time. also clearing input fields
+
+commit 5323e1a0da4b4e113797eeaa393fa92aa81101a4
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 21:18:49 2021 +0200
+
+    got no good commit messages left
+
+commit 5cdb5fdd8c5e26c27ccd11ccdcdb1b8fce034d88
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 20:33:56 2021 +0200
+
+    fixed underline issue sales page
+
+commit 82a9fc7eecd79616e6ec3077941990e3508996f1
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 20:20:37 2021 +0200
+
+    more changes
+
+commit c6493068fd65f6d492b1118ee1e55878e6c17385
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 16:34:42 2021 +0200
+
+    removed console logs
+
+commit a9b93a0b23017a21bf4479e8c6ea61cf7eb66788
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 15:37:13 2021 +0200
+
+    removed outline from buttons
+
+commit d9f4519c1d9d5519d86f5f4a60bd1084d23c360d
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 15:21:13 2021 +0200
+
+    changed to correct restaurant name, also changed ordering of some charts
+
+commit 06013b6eead57585823c5fc24b73b2fd9b60b087
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 14:59:43 2021 +0200
+
+    more changes and polishing
+
+commit 55ccabdebcd8625d4503b39d6c315243d0154e8c
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 14:32:40 2021 +0200
+
+    fixed typo, like a pro
+
+commit 5b44eedddf99cc289f960272857de8c8c4002e36
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 14:30:51 2021 +0200
+
+    small changes
+
+commit ac1c440c8a087ea2077719a486f82766706f3ebb
+Author: Christoffer <links685@gmail.com>
+Date:   Sun May 30 14:30:23 2021 +0200
+
+    added underline of the displayed page
+
+commit d2d19a586d8c82f7183c10524290ea43dba1d035
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sun May 30 13:42:47 2021 +0200
+
+    Added comments to some of the code.
+
+commit 5815fc584029faead6a45a77020af5b456ea1b83
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Sun May 30 12:09:46 2021 +0200
+
+    Removing labels on pie chart
+
+commit 2a33e4429d31def4123003ddf211a6b2b5c66dbe
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Sun May 30 11:49:01 2021 +0200
+
+    CSS fixess pie chart and bars
+
+commit 72933da7ca1b7e1ea7f9ff15f7bfa1945a8a7604
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 29 23:03:49 2021 +0200
+
+    New changes to restaurantinfo. Icons implemented.
+
+commit 335358a3cc22414a4336036fdb4d3caab748e233
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sat May 29 22:31:33 2021 +0200
+
+    Update EmployeeCardModule.js
+
+commit c8dd9711f98657abc1bf01ea7d7383aae61f291e
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sat May 29 22:28:55 2021 +0200
+
+    Added more validation feedback for adding new employee
+
+commit 102815783dab5a6c74554383b9450b1606aeb1e6
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 29 18:44:01 2021 +0200
+
+    Number of chefs implemented
+
+commit bd03d592f275fe3e4dc99e3aa6c78ce279056c49
+Author: Christoffer <links685@gmail.com>
+Date:   Sat May 29 16:14:25 2021 +0200
+
+    added some alt texts
+
+commit e2085e2c9d9916bdb9ee9be023efec26715d4bc9
+Author: Christoffer <links685@gmail.com>
+Date:   Sat May 29 15:46:42 2021 +0200
+
+    added keiko deluxe to menu
+
+commit 183deb629dd55dc18b1983655dee3710fc678ab8
+Author: Christoffer <links685@gmail.com>
+Date:   Sat May 29 15:04:00 2021 +0200
+
+    made format function, numbers are now formatted
+
+commit e50a8a80c6c0a318994fbb75c5c06510f7e90dc8
+Author: Christoffer <links685@gmail.com>
+Date:   Sat May 29 13:40:11 2021 +0200
+
+    small changes to add employee card, fits mobile down to iphone x size now
+
+commit 376e0b2233c368d1b0c8f72b4fb519dc48ab9753
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Sat May 29 11:21:13 2021 +0200
+
+    Fixed issues with navbar
+
+commit eb94fd938a2263849ef9c47a7ccee166174b7bdf
+Merge: 26dd527 7cd880e
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Sat May 29 01:50:28 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 26dd5274de3d8d0b2a13b9daf1e16374144100b9
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Sat May 29 01:50:25 2021 +0200
+
+    Very minor change sales.
+
+commit 7cd880e21714ff6e888f76a58113bb7eb5c5b6d6
+Merge: d99097f 2e9f4f9
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sat May 29 01:27:02 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit d99097f4c9d9d1720e48273af19510cf57f6ad15
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sat May 29 01:26:21 2021 +0200
+
+    Update ValidationModule.js
+
+commit 2e9f4f9eacc55b5f8d821d9d1950f00d241cb892
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Sat May 29 01:17:12 2021 +0200
+
+    Mobile menu functioning again, but not optimally due to accsessability issues.
+
+commit 07deee7ddd54cb73ee7f53aede968888359f394a
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 29 00:07:44 2021 +0200
+
+    Title icon on all pages. Fixed alt-text to employees on restaurant page.
+
+commit 8e3d1c8c1baf4e4780ee9884871c088b11df5987
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sat May 29 00:01:08 2021 +0200
+
+    Update EmployeeCardModule.js
+
+commit e7edc1a58aef3840040c8369cf8b2a1902693767
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 20:04:26 2021 +0200
+
+    Added toggle for background opacity when modal pops up
+
+commit afd6d704cfd75ccf5724f6786c520b533a69a5eb
+Merge: bb3e801 3b97556
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 19:51:15 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit bb3e80123ac1c0a57e07a51b1ef9a5db104a26e9
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 19:51:09 2021 +0200
+
+    Centered add new employee popup and faded background
+
+commit 3b97556206a1bb7628e81e4e1187a22b755575fb
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 19:18:45 2021 +0200
+
+    Added functionality to average profit div in sales sites.
+
+commit 5febbcdbb4e63347765c8ac8b638de26f61e9279
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 18:45:43 2021 +0200
+
+    Finished functionality on "most sold pizza".
+    
+    Functionality added to "most sold pizza" div in "head"  numbers in sales.
+    Added canban on sizing on pad.
+
+commit 0367f6f37b79063aa418664cb6606b8f6231206b
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 16:39:19 2021 +0200
+
+    Updatet color and names in menu
+
+commit a79db3bcb3620692f6d9d63ce69807959e591819
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 16:29:57 2021 +0200
+
+    Small typography changes
+
+commit c8ef85196b7b8fb9b6e36b4038bede8190fa3dfd
+Merge: d73513f f9bbe59
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 16:13:59 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit d73513f2a0867d394a2e0badefcface2c20d3655
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 16:13:55 2021 +0200
+
+    Addressed several accsessibilty issues
+
+commit f9bbe59737497ba43bd35afe6f3c8932209460eb
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 16:11:49 2021 +0200
+
+    Update sales - head menu
+    
+    Prosentage revenue from year to year is now updated to take in data from any number
+
+commit 32cd6ee1967beef96f64a2b137bc5b4300f352bd
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 15:17:16 2021 +0200
+
+    Accecebility done
+
+commit 85f1900c9fa6026a24400927bcd39b6a0bb88697
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 15:01:20 2021 +0200
+
+    Contrastchanges
+
+commit fd7db088015dab2262833d4a4bdbfe3130438ac1
+Merge: bb58a0a 2f4416f
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 14:55:41 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit bb58a0abb461becf032c67970213b76e32e21d16
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 28 14:55:36 2021 +0200
+
+    Contrast changes - employees and header
+
+commit 2f4416fe73b78eb6f609bdf51fda09fa90d030e4
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 14:50:54 2021 +0200
+
+    roles and restaurants are now set when editing
+
+commit 0d4c3329fba60a2b24c5e0a0204c7c7b877e3914
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 14:38:04 2021 +0200
+
+    more bugfixes
+
+commit 2cf87c20f0a626642369a240d044dd57093f3cab
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 14:31:04 2021 +0200
+
+    small changes, bugfixes
+
+commit 9601f63a724e27e445e38d357389fbdcca029d8f
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 14:19:10 2021 +0200
+
+    newest change
+
+commit 324c0c61eb833fcf0df139b2f2d0b5a524466405
+Merge: 2255d74 6bb4eb0
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 14:14:03 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 6bb4eb088052c239ce734f2cd623084a6a943fd1
+Merge: 1840ac2 172fcee
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 13:59:04 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 2255d748f9a9acccb914c33a9acef7112cccea38
+Merge: 1840ac2 172fcee
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 13:59:04 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 1840ac20db9a091fbcd8615ba99b77f74b65c3f4
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 13:58:54 2021 +0200
+
+    still polishing employee page
+
+commit 172fceef868acbcf5bc229a18e4321e586ab0fbd
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 13:40:33 2021 +0200
+
+    Fixed results alignment on mobile
+
+commit 02563fa565ff8aae52ac1bca35ece61904ac5e91
+Merge: a783514 287ea25
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 13:34:15 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit a78351493f48e890638db712363ded12b29a8f24
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 13:34:11 2021 +0200
+
+    Revenue a year is now activ and can be manipulated
+
+commit 287ea255ef00d24e80950180ae2d8ab6c725f2ff
+Merge: 77164e5 bd79ea8
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 13:28:42 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 77164e5db0f22342793c226af94337073259e2a7
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 13:28:39 2021 +0200
+
+    Update sales-results.js
+
+commit bd79ea88fb28a3ab285469c7ea6341557d2f94e2
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 13:23:41 2021 +0200
+
+    Changed bg-color to header
+
+commit 0b815e95089bbffa16cb74162a45f1316af2d6ec
+Merge: 447f0de 612a33e
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 13:17:54 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 447f0dee05469cf5357f858aa2be90aeceb9128d
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 13:17:50 2021 +0200
+
+    Added underlines to restaurant menu
+
+commit 612a33ed8093014f035c55d9965803c90a8ab3c4
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 13:11:50 2021 +0200
+
+    Fixed contrast validation to navbar and restaurants
+
+commit 1af59e6eaa25ac8b8ee1b8a7e031637addea6a9f
+Merge: 50e02ee e1f32fb
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 13:11:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit e1f32fbea67e29fca1167765f16b8b5df40370eb
+Merge: 50007be ad2d04c
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 12:57:50 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 50007bee2c8844c545851d7b4538fa537b833a23
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 12:52:45 2021 +0200
+
+    Added menu on cost page
+    
+    Menu on cost page is now generated by a function who display manipulativ numbers
+
+commit 50e02eee7fe5a94971979b6ca4f7bd712602d37a
+Merge: 3194f75 ad2d04c
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 12:44:50 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 3194f75e92657f60095982ed3a8463ec724d6c85
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 12:43:31 2021 +0200
+
+    Minor changes to popupcard
+
+commit ad2d04c5a86973bd8b825fbac209cfda2cd49f5f
+Merge: 95c0692 b6a17f0
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 12:39:42 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 95c06923b3b91f30c9e0e2870e1623e5276c1992
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 28 12:39:29 2021 +0200
+
+    working on add employee polishing and buttons
+
+commit b6a17f0976b1717fae7026b8856e9c18218e5492
+Merge: 36561a0 a68f905
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 12:37:58 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 36561a0eaa1df2903b42552e579ab3ad352d6192
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 28 12:37:32 2021 +0200
+
+    Added bottom border to indicate which section is showing
+
+commit a68f9058638db059bbc07b62df540be1f9e2dd14
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 12:12:20 2021 +0200
+
+    Add employee box is now responsive.
+
+commit 61e075b8f9736a1821ab74ba8fc0eb4445d8514a
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 10:22:10 2021 +0200
+
+    Minor js fix on array function sales-result.js
+
+commit e2471638c4bc0340c33b29974b7ee29367de2115
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 09:27:38 2021 +0200
+
+    Minor changes, and cleared whitespace and format on employees.js
+
+commit 05a04990a27a3c6309494679752d000052b1cb60
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 28 08:55:08 2021 +0200
+
+    Added link on login button and logout on small screens in navbar.
+
+commit dcf055e532ec27d2e4aa3b192def9f22b23ce314
+Merge: f567ad1 e46ef2d
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 00:00:29 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit f567ad1f88e271ed4187c23900e93fd91a4f198f
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 28 00:00:27 2021 +0200
+
+    Updated functions for resultsarrays
+
+commit e46ef2da10cf76b180a1c3e79f76f3c676ae03d2
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 27 22:45:08 2021 +0200
+
+    polishing employee functionality
+
+commit b9d04d3d82e317a70d15fd99b74b4f769d9c64de
+Merge: 60d0261 cab9c6e
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 22:37:04 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 60d0261ef6f021b6b2af6a494b2aa2e35048b5bd
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 22:36:59 2021 +0200
+
+    Login page
+
+commit cab9c6edc5d28c1e6d72b0f141fd0e260199a964
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 27 20:46:35 2021 +0200
+
+    Fixed format with prettier :)
+
+commit 9924a9ffaa22a3301a3ab7cef3f60e50feaa9c3e
+Merge: 3c825ce 7863644
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 20:39:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 3c825ceb31471f46db0d2b954a3678c6294e9353
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 20:39:15 2021 +0200
+
+    Small changes to style
+
+commit 786364415564ddf1005b21b93e55699b091f2c27
+Merge: af5ee73 a6d1996
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 20:29:47 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit af5ee73818176139bdfab0302405b6474fe0d595
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 20:29:38 2021 +0200
+
+    Fixed merge with all sales pages,
+    
+    - Fixed merge errors
+    - Added pie chart with designed colors
+    - Changed right text-box on left div.
+
+commit a6d199657bd964d70a04420b7a418fcecaed66dc
+Merge: 688c0f6 de92f7f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 27 20:28:20 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 688c0f64e0c0e9a2ca227a4ff268c28b5bb378f8
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 27 20:27:16 2021 +0200
+
+    showStatus moved to ValidationModule
+
+commit de92f7f60126d67056f47851c592d6b42c59e03d
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 20:26:47 2021 +0200
+
+    small commit
+
+commit 53f9863ed837a361a2340fbb3153607b8a4403fc
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 20:24:38 2021 +0200
+
+    Small edits
+
+commit 78a9f1fe85e82f77588e07a64e1ff7961a78cbe8
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 20:10:00 2021 +0200
+
+    Polished the showStatus function :D
+
+commit 0ee7db776432781108ebc888e685a35ff27219e0
+Merge: e944b3b a206d78
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 19:28:48 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit e944b3b1aded0201f152ecb327e3830ac20eaa1f
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 27 19:28:11 2021 +0200
+
+    Small changes
+
+commit a206d789a6ebc6727b8459992e72ce4c200b8983
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 27 19:23:37 2021 +0200
+
+    Validation to edit employees is in function, with popups.
+
+commit da4412dfd61b90f4c39daba3846eb5d6f1b80912
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 27 15:05:19 2021 +0200
+
+    can now edit employees
+
+commit 14f2ff320590c396a464761c794c5b82aff3db4f
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Thu May 27 14:56:12 2021 +0200
+
+    Added a showStatus function to header module
+
+commit 70bacdd91f261085a2b32a342954dabcd09160c3
+Merge: 905559c af12140
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Thu May 27 13:29:24 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 905559c1ae86c556885620aaa47ff10625e6dd8f
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Thu May 27 13:29:20 2021 +0200
+
+    Done with the menu page - responsive and all!
+
+commit af12140b459a778c1e0c371e50a776add0822a38
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 27 13:28:51 2021 +0200
+
+    Added validation module
+
+commit 4c263153211a901b242d4d672db1bf7fc6a157af
+Merge: 52cdac7 4b0ed14
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 13:12:39 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 52cdac7c813d21c3150c1dd005da79bacf713983
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 13:12:29 2021 +0200
+
+    Trying to solve merge error sales.html
+
+commit 4b0ed1419879490b930473cc2f5e7599e64d58db
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 27 13:02:52 2021 +0200
+
+    can now edit employees
+
+commit 791054047257891a88c323dbd23f785c3592db0f
+Merge: 3663297 8a747e9
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 12:55:22 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 36632971089b9e5c5d7852e8bc89be97301cfb15
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 12:45:26 2021 +0200
+
+    Changed layout sales
+    
+    Merging all sales pages to one, trying to merge with Vergard.
+
+commit 8a747e984030a240e05103bc4e17c4ba9b6ed5b0
+Merge: d2a1480 5ab5486
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Thu May 27 12:44:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit d2a1480d21b85e1db2b55c97b990b3a971c9897c
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Thu May 27 12:44:18 2021 +0200
+
+    Merged sales pages
+
+commit 5ab548639a97fb9f70466c164bd91dcea8c4a177
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 27 12:00:41 2021 +0200
+
+    can now delete people, with popup
+
+commit 9c10f2a7ea6b6349da9e3f581bf3340c685df028
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 10:56:20 2021 +0200
+
+    Added all html from sales to one page
+
+commit c3890c83804acee952960725d93d6c7472bfa738
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 27 10:37:43 2021 +0200
+
+    minor css fix sales-result
+
+commit 76dab9c2c1373ac6711bc4e17a8cae31fc8111fe
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Wed May 26 22:59:13 2021 +0200
+
+    Small changes
+
+commit aaae435a0560950f1ca6fc9a95d075989386b953
+Merge: 231a224 e077d5a
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Wed May 26 22:54:33 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 231a224d1eb19882bba2d7615617f9da636c4ed8
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Wed May 26 22:54:27 2021 +0200
+
+    Z-index changes and some edits to meny-drink cards.
+
+commit e077d5a903b79594eb91da7a83622f3f51a37489
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Wed May 26 22:48:14 2021 +0200
+
+    fixed some employee id issues on cards
+
+commit 37862733ab5eb432a808fe0d5133c5f5ba86ab12
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 26 21:39:52 2021 +0200
+
+    Added confirmation modal to delete button
+
+commit 1c49d56f08a51f6b4dd0f11c245913150a34be5d
+Merge: be3aad5 d3f2d2d
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Wed May 26 19:47:53 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit be3aad5e2cba1061b921387641ada7577be7339b
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Wed May 26 19:47:49 2021 +0200
+
+    Added functionality to edit the menu through button
+
+commit d3f2d2d0d83196a931a3f19785f01e7ceed6eb25
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 26 18:03:44 2021 +0200
+
+    Small changes
+
+commit f1f179db189516bc60742c22c4840579f14b7de5
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Wed May 26 14:09:07 2021 +0200
+
+    Added results array functions in sales-result.js
+    
+    Added functions to make result array of income and expenses. Functions is not working properly, but I needed to change computers.
+
+commit a578e4d66786791cb1e790ff4c1b74fdc42b8c7f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 26 13:55:33 2021 +0200
+
+    Added stillingsprosent og årsverk og lagd funskjoner.
+
+commit 81e5fe4255725761921bd6e0695c6ab4430061fb
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 26 13:24:56 2021 +0200
+
+    Added function to delete cards
+
+commit 73aff10765d54b9d8ef3cd09673f8d6f3b6cc21d
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 26 13:06:22 2021 +0200
+
+    New function to restauarant info section.
+
+commit c1fb748ac73fb00cdf24528f999e5c82168dbca6
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Wed May 26 12:27:43 2021 +0200
+
+    Minor css fixes in sales-result
+
+commit ebc6d95353ab040ac3878d40f3cf6350bf0bc569
+Merge: 30ca6f7 784ef0b
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Wed May 26 12:26:36 2021 +0200
+
+    merge
+
+commit 784ef0b37a6bbc9b0260fbf3af2ecb8c227c2016
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 26 12:19:36 2021 +0200
+
+    Changes to restaurant
+
+commit 30ca6f7a2eb6f3c20dbe8168073969ad4610ed38
+Merge: 6b0436a 90c256c
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Wed May 26 11:51:43 2021 +0200
+
+    merge
+
+commit 6b0436a535011b17d2f0a2618109c5c61c6da157
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Wed May 26 11:50:58 2021 +0200
+
+    Added js to sales
+
+commit 90c256ce4a19bfd26e02628974d67a4b2c551b65
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Wed May 26 11:48:43 2021 +0200
+
+    Changes to employees - need some work still
+
+commit c11550b19b96ed934103fc335b3911c6b4b13f49
+Merge: ac576ad dab5978
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Wed May 26 10:27:21 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit ac576ad6b24d0108acf708a61d6be1fe655a3dc0
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Wed May 26 10:27:16 2021 +0200
+
+    Finetuned the animations to employee cards.
+
+commit dab5978142fab6d2b901a4dce9a7aebf73c5c55a
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 26 10:18:08 2021 +0200
+
+    Moved hamburger menu to the right and fixed typo
+
+commit 60b2acc3c258bc67c09f6afa154ed222c9bd4778
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 26 09:13:07 2021 +0200
+
+    Added changes to module.
+
+commit 80d8bd2e5a7710af8fd5a8aa7f68a3f3e102ab71
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Wed May 26 00:57:41 2021 +0200
+
+    Added pointer SVG to template litterals on sales-result
+    
+    Minor fixes
+
+commit eb65269cdbf489877b209ef7967d9e23384ace91
+Merge: d772d4a 620f869
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 23:12:37 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit d772d4a1981111b9ec2ad834b457ab2a47b1477a
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 23:12:32 2021 +0200
+
+    Added functionality and animation to Ansatt cards
+
+commit 620f869ece5ad794e4b46abf3b6cbdc0f91df626
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 19:52:19 2021 +0200
+
+    small updates, cards are now working better
+
+commit d5b51d48ec0cecced459a5cc7c75655f553cc9f4
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 19:30:02 2021 +0200
+
+    Made restaurantModule and made changes to functions.
+
+commit 47c0c3c953c23845527c3fe35e6d609bb3f9b67a
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 18:58:13 2021 +0200
+
+    Deleted EditModule and working on changes to code of restaurant.
+
+commit 20d72fb5c56ffc62fc797369e015af1cabb64b0d
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 14:25:16 2021 +0200
+
+    minor change
+
+commit 52f947c9ad8288bfb9841325cc44028852027984
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 14:10:59 2021 +0200
+
+    minor change to css
+
+commit ccf857e7224fbf5a505450bf621ac4d182d1e16b
+Merge: eaa3370 6402070
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 14:05:52 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit eaa3370292e589e4717880d7be95bb856d25591f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 14:04:56 2021 +0200
+
+    Fikset maps og lagt inn kapasitet pr. restaurant.
+
+commit 6402070f0eff81dbc0a8862b680c311207f750d5
+Merge: ce88ad5 fb2c989
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Tue May 25 14:03:03 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit ce88ad5daeeb2e3712c37628f884b59f14a0e3cd
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Tue May 25 14:02:46 2021 +0200
+
+    Minor changes sales-result
+
+commit 788c5d6b22e42f80ffc1d2e7a6f19fd9dbe4c432
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 13:55:46 2021 +0200
+
+    Fixed font in submenu
+
+commit fb2c989fd025f9417bde983533989903d4fef962
+Merge: 7afdd22 d59a350
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 13:54:52 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit d59a3502526bec7880d15ff9e811adbbafc0a00b
+Merge: db587d9 8afcebc
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 13:37:33 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit db587d9e8d21a36ef58726ec765a3ff01d4fb6aa
+Merge: 91c6f09 6e0f92e
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 13:37:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 8afcebc7e0651f3b66523f089e44925848d9769d
+Merge: 32c09f3 6e0f92e
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 13:35:41 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 32c09f31795bd769b0756f417f88eeb988c37362
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 13:35:35 2021 +0200
+
+    Small changes
+
+commit 91c6f0966cb4c68c28aaf10c3fad2ce6e904fcbc
+Merge: fdb60de b9655a0
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 13:34:00 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 6e0f92e0a0615eb27d7bc8163460c30c53e5608f
+Merge: 87688cc b9655a0
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 13:33:55 2021 +0200
+
+    merge
+
+commit fdb60deba9eb4bcc6ea13b32e6c097e6d90cacbc
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 13:33:24 2021 +0200
+
+    Removed console logs
+
+commit 87688cc5787a856c54c32028720a1f3b91e361b3
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 13:32:24 2021 +0200
+
+    Made sales responsive
+
+commit b9655a07f453afc9d29035c41ba7cd4a862931e2
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 13:28:46 2021 +0200
+
+    edit employee func almost finished
+
+commit dd554aa83f5370ab252e1afc8c1de7378db9c2ee
+Merge: a35cd90 da7dd05
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 13:25:15 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit da7dd05a2a4b8335c7e56d81a6e46dd2e203d5f8
+Merge: 2674eca 37e19ce
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 13:22:55 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 2674ecafe71861558975451f13185ae4ba00799f
+Merge: 98b3ab8 1874b5f
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 13:22:43 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 37e19cece0425c7be492049a6575c7089a5e8314
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Tue May 25 13:22:31 2021 +0200
+
+    Sales result prosent now working
+
+commit 98b3ab841d6df373a78712521fe477ae8e13265d
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 13:20:35 2021 +0200
+
+    Restyled employee cards and edits
+
+commit a35cd901158d89ee770f48c23d0b65e3a19f2521
+Merge: 7518c1d 1874b5f
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 12:55:53 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 7afdd22ab0c2a3efbf81f064f2a236dac3f4270c
+Merge: 07075b0 1874b5f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 12:55:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 07075b0c89a19c9032b4226926dacb5a786b23ce
+Merge: 3b86474 4049634
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 12:53:22 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 1874b5f9e84908d6b5ec20021ac086e9f85b8983
+Merge: b22510e 4049634
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 12:53:01 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit b22510ec0b52a43e37929fbab7ebf8aba2ecb011
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 12:52:52 2021 +0200
+
+    fixed loading correct page
+
+commit 4049634eea6c8ea2ef416621b3b6cfbd19f5c5e6
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Tue May 25 12:51:26 2021 +0200
+
+    Adding functions to result prosent number
+    
+    First step in adding the functionability to the result prosent number
+
+commit 3b86474bb9baa039a1c6b5e0f2f008d12e5abea2
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 12:35:52 2021 +0200
+
+    small changes
+
+commit 7696b5d0051c1c9a61af86e56b3a967d324e830f
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 12:34:07 2021 +0200
+
+    can now edit employees
+
+commit eb89ef98fb45b6baf00b2f979a9be83415641bd7
+Merge: ca363f3 2d74d03
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 11:59:23 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit ca363f3fd8fb50805c198a899dec4034647cdf67
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 11:59:10 2021 +0200
+
+    added FetchDataModule
+
+commit 2d74d037ce57206dc1626d03bd47952210640442
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Tue May 25 11:50:39 2021 +0200
+
+    Soon finished with restaurants
+
+commit 4f7f7edd1c4bed07fd46c73b509792a32d37ad78
+Merge: ff4016b afb36e3
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 11:33:55 2021 +0200
+
+    merge
+
+commit ff4016be3e2598bf6d119e75ad4393952076569e
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 11:30:57 2021 +0200
+
+    Modified menu in all sales pages
+
+commit afb36e38081d11dee74c207bc23bc75ec9e47ad7
+Merge: d3bf801 7cafd6f
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 11:07:01 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit d3bf8015aa91bd69d31884cd0efddb14b24940c1
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Tue May 25 11:06:49 2021 +0200
+
+    Changed styling to buttons on employees page
+
+commit 7518c1db5383057875aeec3f4a26263e7cee117f
+Merge: a099f5a 7cafd6f
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 11:03:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit fa0c1dff260d5968d59a18f2fc718534f51e408f
+Merge: 6b0fa4d 7cafd6f
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 11:03:01 2021 +0200
+
+    merge
+
+commit a099f5a676376841e8b4203d32b1bb7d4cc086d9
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Tue May 25 10:58:17 2021 +0200
+
+    Bar charts now start at 0
+
+commit 6b0fa4d28c8e2c9f9b2930bf0424256621ba88de
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Tue May 25 10:57:47 2021 +0200
+
+    Changes in sales
+
+commit 7cafd6f6ca5720c79a38b60098f2e32607bf2bd2
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 10:50:05 2021 +0200
+
+    fixed ordering for restaurant, is now alphabetically
+
+commit 2274a1160657ca543c43b9316b434d1cac563868
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 10:04:56 2021 +0200
+
+    can now add picture to new employees
+
+commit 197bf0094b8db2780579e85ad2832ae6c90a8596
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 10:04:56 2021 +0200
+
+    can now add picture to new employees
+
+commit 491ddb815bae36cf6124346cf755ae0ac51f7f52
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Tue May 25 00:32:02 2021 +0200
+
+    working on adding image to new employees
+
+commit a87abc94ab65318c3fac775d2365a5268443b08d
+Merge: 0b4349f f04c6c2
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 24 23:16:26 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 0b4349f27e4f7e9537e8a64fb0daf69c9312b5e1
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Mon May 24 23:12:31 2021 +0200
+
+    Almost finished with scripts on restaurant
+
+commit f04c6c2a21d4f11c1d49eb533e50f9d47b252320
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Mon May 24 22:29:29 2021 +0200
+
+    Added styling for sales result pages.
+
+commit 195b264a42ac31ef017e102c12bf48ed3d72122a
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Mon May 24 17:10:39 2021 +0200
+
+    did a HUGE change, we are sadly no longer serving sprit
+
+commit 7a6d05bbe05db18ddf042b8008d786bbbf515cb0
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Mon May 24 00:23:33 2021 +0200
+
+    Added ability to search for firstname
+
+commit c163f969396c422c35719e2df5106953ba2d32b4
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 23:08:28 2021 +0200
+
+    Small changes
+
+commit d85d18c80e6d3d9774b0a7014a6fcf9b1a68a6b9
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 23:02:51 2021 +0200
+
+    Small changes to layout - resturants
+
+commit c4a976a57e0bcda57d68374c050d66cf9dafb201
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sun May 23 22:58:35 2021 +0200
+
+    new functions to restaurants
+
+commit ce46fc2c2333d766b386ca3fad2140fc86b86ed2
+Merge: 96b7c47 9b6b51d
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 22:42:04 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 96b7c47fad270458b9845df2452588c8c9508363
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 22:42:00 2021 +0200
+
+    Added stuff
+
+commit 9b6b51d2187d93bc2395dac7af0be590c33a84de
+Merge: 5c5803d 7bd2d58
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Sun May 23 22:04:10 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 5c5803d3c6d0a0fd7751124f3fd8fd55a4772a60
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Sun May 23 22:04:04 2021 +0200
+
+    can now add new employee, working on how to edit employees
+
+commit 7bd2d587d816a16980416087bb91c7dd0f55c5d8
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 20:59:26 2021 +0200
+
+    Comments
+
+commit 463080add533b796ac0a8a90d62cee4ee242667f
+Merge: 1338af4 8c29b20
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 20:55:48 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 1338af4e22d20112bb8022d5f242dc1a48ad486a
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 20:55:44 2021 +0200
+
+    Added functionality to menu page and resized images
+
+commit 8c29b20d7fde36a5f7986a8b3814664bb0165c4a
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sun May 23 17:12:03 2021 +0200
+
+    Added links to dashboard
+
+commit 7110fa13992037e2694a2eee3af68df4e4dd0a7b
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sun May 23 16:53:55 2021 +0200
+
+    Adjusted index positioning
+
+commit 64f8a8b0334a736c2a22b0a35d2ad2a5b08b4efd
+Merge: 1b42af7 1b031a3
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sun May 23 13:32:37 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 1b031a33f545f17ff3b8efae625a8cf5b3a0f9d0
+Merge: 8663fb6 5cbcafe
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 13:23:38 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 8663fb6338ddb6b8bc79d28e6586ea751da2cb32
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sun May 23 13:23:01 2021 +0200
+
+    Added more functionality to the menu page.
+
+commit 1b42af7d8b4c644bf1cadd870d52c2c857b414cd
+Merge: 1500e4a 5cbcafe
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sun May 23 13:11:01 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 1500e4a8b9cc9a0281c91b412cb0ea7913b47b5b
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Sun May 23 13:06:33 2021 +0200
+
+    Added optgroup to employee.html dropdown. Added index page
+
+commit 5cbcafe84e1693d31e7d1ebaa5995f86a2c7b622
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sun May 23 12:40:13 2021 +0200
+
+    Restaurants done, full responsive on all devices.
+
+commit 896631a5d4623f90709db6bb9d65ce8314a81eb2
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Sun May 23 08:36:56 2021 +0200
+
+    comments
+
+commit a4640f990721ec9615ac54384544e5343c9de6a5
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Sun May 23 08:33:24 2021 +0200
+
+    Added delete functionality on the menu page
+
+commit 2e677c3c4202e7ef768cf923bb5761d733e237f4
+Merge: b41507e 32a7e2f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 22 23:46:39 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit b41507e174c38774a47de695f5f771965c02d8f2
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 22 23:44:21 2021 +0200
+
+    small changes restaurant
+
+commit 32a7e2fae86ae862e0ea59ed4e7ba18ad0c1a707
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:41:45 2021 +0200
+
+    Small changes
+
+commit 3549ddee1fb3c8fe47529aa69526b784e330f259
+Merge: 33b2f11 8f63019
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:31:21 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 33b2f118ac81108d1d968768714893b5fa74439e
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:31:18 2021 +0200
+
+    Fixed classes with new build
+
+commit 8f630196b76fb5ff0ccdd72ab35f2fcca9b3655b
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 22 23:29:40 2021 +0200
+
+    small changes to restaurant
+
+commit b38af807989aae13f67b96f29425e50a0d45a38c
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:25:32 2021 +0200
+
+    changed subtitle class
+
+commit 010e0cfcf7f58742cf0e4b560d27caddbd6f1371
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:23:47 2021 +0200
+
+    added subtitle class
+
+commit accc359223bb99bf5f023c5ebbd97c7ec2e38840
+Merge: a8e7224 52968cc
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:16:26 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit a8e7224dbb5b6d43d41745d748abdd38726b8b0e
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 23:16:24 2021 +0200
+
+    Tried to add functionality to the menu cards
+
+commit 52968cc2bed55cd1144ca64e2b46a40bc4ded2d0
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 22 22:59:07 2021 +0200
+
+    Restaurant done for mobile devices only.
+
+commit 3d8a34114c897c700a889c206766a3962268be0b
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 21:33:20 2021 +0200
+
+    Fixed mobile navbar icon
+
+commit c60c3e0712b3eeae7434e3af195d17d35d1712a2
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 21:29:18 2021 +0200
+
+    Changes to resturant
+
+commit 62d451dbebb263eb755fe8b2d680a97b9ffeef53
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 20:58:45 2021 +0200
+
+    Added cross to navmenu
+
+commit da77b27e3ffeae1e8a5e3657995c5ee757c06b81
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Sat May 22 20:29:17 2021 +0200
+
+    Added classes to config, styled sorter in employees
+
+commit faa0bb1240ad7df3f723f04a64dcf51619ea407c
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Sat May 22 00:54:05 2021 +0200
+
+    started on restaurants
+
+commit d79dbf42da1b56907411a6acf9f5262025d81871
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 21 23:34:38 2021 +0200
+
+    Added fonts, custom css and some small fixes
+    
+    Added support for google fonts on menu-page. It works when imported in the head tag, but i'm sure theres another way around this. Added custom css and classes for menu-animations.  Check the config file
+
+commit 7fdf8a4d845b3b9cf877401e2768a9d6eaded353
+Author: Sigurd <sigurd.ovesen@gmail.com>
+Date:   Fri May 21 22:47:23 2021 +0200
+
+    Comments
+
+commit d2d29ebccd5fb04a6307cf202550c3c8192bd5bf
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 21 22:41:25 2021 +0200
+
+    Small CSS-updates on Salgs-Resultat
+
+commit 3a785d24924988ed741a3309c22018e76968184f
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 21 20:43:34 2021 +0200
+
+    Work with sales-result page
+    
+    - Added function for bars to be gathered from array
+    - All small boxes are now generated from tempelate literals
+    - Loads of CSS tweeks to make it look better.
+
+commit 013f1319e4d922921bfa1c5d31e73c0882de3e6f
+Merge: 866e1b4 d6e18c8
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 21 15:06:01 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 866e1b457d29f1984334e739d92e479f4cf80313
+Merge: 4913ffd 43c5449
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 21 15:05:33 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 4913ffdb4b2e657ce33e28fb9b94756ed28e74aa
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Fri May 21 15:04:30 2021 +0200
+
+    Added sales-results.html and JS files
+    
+    - Added sales-results.html
+    - Added sales-results.js
+    - Imported header module
+    - Added graph to match design
+    - Added js js lib to make graphps
+    - Graph now ready to take in any array.
+
+commit d6e18c8bc6b54ff86ad7fc2b50e0677828c02ceb
+Merge: 413f520 43c5449
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 15:04:26 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 413f5203b2fab80a5f7b6d8850b1021172232af1
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 15:01:11 2021 +0200
+
+    working on adding and editing employees. NOT EASY...:P
+
+commit 43c54492f9cf45f1131f11a043dcb5394bf516ee
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:58:19 2021 +0200
+
+    Styled the sorting inputs.
+
+commit b4ed8fd64b9addc4026ed192756dc4fedd0c804c
+Merge: a77158b bab3bb2
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:12:27 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit a77158bdea917f2b96ad41331915661edf602cbb
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:12:16 2021 +0200
+
+    centered the logo in navbar
+
+commit bab3bb27c765bd58127989c214e8d8b022434709
+Merge: 583d50f 046065f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 21 14:11:18 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 046065fa31e4bcfcbf64cb3db7bcacb93dad2980
+Merge: 49184e4 0809863
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:09:41 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 49184e44d2f41aaed94a2fcf5ba3218d3fc93d17
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:09:32 2021 +0200
+
+    Edited images to fit the frame
+
+commit 583d50f8c583f189d5ea296f36b35e028c4d307c
+Merge: 92bf145 0809863
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 21 14:08:14 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 0809863a1717692d2534a84ad789e0114a3a8ba2
+Merge: 8e5e6b3 5228688
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Fri May 21 14:06:10 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 8e5e6b3e8d0200df18f93ed74c27fa95e9f6defa
+Author: Silje Denise <siljedenise@gmail.com>
+Date:   Fri May 21 14:05:02 2021 +0200
+
+    Added sales page and salesCosts
+
+commit 92bf14518b4058a6d4b0e8ffcff44ef31ada7bba
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 21 14:04:23 2021 +0200
+
+     EditEmployeeModule created
+
+commit 52286888cf11396397932b2321b634cd9523a278
+Merge: 34a1034 2fc427f
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 14:03:55 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 34a1034b6e0f50e0e4541902c7eef6a32e0fd7a0
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 14:03:45 2021 +0200
+
+    small changes to filter on employees
+
+commit 2fc427fc3ea77bcf2a072b412d9c25f21f412e1d
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 14:02:02 2021 +0200
+
+    Added drinks to meny
+
+commit ac2db70bc8d1baa1abb98bc385ac4a8cbd8386a8
+Merge: f61c9ab 4ddfce5
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 13:07:30 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit f61c9ab31ab9fb0eca2931ef8707191b786379f8
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 13:07:27 2021 +0200
+
+    Added styling and functionality on the menupage.
+    
+    Added some icons, HTML, CSS and JS on the menu-page. Some tweaks on the navbar aswell.
+
+commit 4ddfce5266baf10863cf81032b45129966e55273
+Merge: 80e4ef8 1ee9ac6
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 12:02:36 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 80e4ef845dbb407defd22efe3f3525b8e7f21e83
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 12:02:22 2021 +0200
+
+    can now search by last name
+
+commit 1ee9ac6618784e3665f23345831238fc7a010ce7
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Fri May 21 11:57:35 2021 +0200
+
+    EditEmployeeCard
+
+commit 1c73315dd51398fc604f6c416ddd3d9492b92d09
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 11:56:15 2021 +0200
+
+    can now search by last name in search field
+
+commit 28837574ef1c725128e13f2bc23983ec17536f81
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Fri May 21 11:47:28 2021 +0200
+
+    working on search and sort for employees
+
+commit 989423651d76b6cba09fd80bb0a9e7df85f0b409
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 21 10:20:51 2021 +0200
+
+    Separated names into first and last names. Added phone numbers and email
+
+commit 0699345b856263d2f0fbd865738e874e1dff27b5
+Merge: ed3b15d c39662b
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 07:46:35 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit ed3b15d2387487a69ba14558353910069c434364
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Fri May 21 07:46:30 2021 +0200
+
+    Added animations to navigation
+
+commit c39662bc6a87e72efdea22c143391c9d7f864e89
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Fri May 21 00:25:32 2021 +0200
+
+    Fixed sorting all employees
+
+commit b63c56d97e286857c43b36472b8d9958c1115cc2
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 20 23:50:48 2021 +0200
+
+    added sorting functionality, primarily for employee page.
+
+commit f1f7c97a94344d1a347518e18bf563ee70d98bae
+Merge: 9da62e6 7ea1f1c
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 20 23:04:33 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 9da62e6650d1416972ad2045f3617ed6dad7ddc1
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 20 23:04:24 2021 +0200
+
+    Fixed navbar, and added animations to links.
+
+commit 7ea1f1c34f1e57d47482d121c2ab7dd565e33f45
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Thu May 20 21:47:27 2021 +0200
+
+    Small changes, removed unnessesary function from employees.js
+
+commit 7b2c9f5fe367d50e2e5e9450533fdbba033b2d4d
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 20 21:12:47 2021 +0200
+
+    Sentrerte ikoner på ansattkort
+
+commit 9f250b2bac67436f0338e41e50575a7de5d7dd39
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 20 20:25:28 2021 +0200
+
+    Small estetic changes
+
+commit 7d8a0d0f2861fef72ad0660392420248eaf99426
+Merge: 5275973 51fc0b9
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 20 20:17:03 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 52759739d696737715c4eddd8e6189a2eb17b1f3
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 20 20:15:33 2021 +0200
+
+    Small fixes on Ansatte
+    
+    - Added white icons on cards!
+    - Added names to search function in Ansatte.
+    - Pushed down cards from underneath nav-menu.
+
+commit 51fc0b94844f62cb22d5ade3a25ba39678a36191
+Author: ssovesen <67221312+ssovesen@users.noreply.github.com>
+Date:   Thu May 20 20:07:07 2021 +0200
+
+    Added html and js for meny
+
+commit ca6b5ed65999d460d48fda9dd2cbf3dad84ed9bb
+Merge: 93ba93c e88208f
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 20 19:59:38 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen
+
+commit 93ba93ca3eba24ca77ddb59b4020d539c5dcb88d
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 20 19:58:54 2021 +0200
+
+    Fontawsome on all html files
+
+commit e88208fc6ae56064516f10c47a81b646b0d6f138
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Thu May 20 19:49:07 2021 +0200
+
+    Added images of people and pizzas
+
+commit 1ec29ea9debcc24ab1602b0c3e48751bd015a94e
+Merge: 0db61b7 ff4bc82
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 20 19:23:00 2021 +0200
+
+    Merge branch 'employeeCards-Christoffer' into main
+
+commit ff4bc82fe4501ee43f838c606a188326d4e02352
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Thu May 20 19:14:45 2021 +0200
+
+    Added CSS and dummy variables on Ansatte page
+    
+    - Added dummy variables for employees cards
+    -Changed some CSS to match original design.
+
+commit 0db61b73d149044f9c09d5137686a7920f2a1962
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 20 17:52:58 2021 +0200
+
+    Header/navbar implemented
+
+commit e4e3c769b025ae5e03daed17f10e863f3e1c13b6
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Thu May 20 17:51:41 2021 +0200
+
+    Header/navbar implemented
+
+commit 311256827c951e5aa5bf61e08f8e233c5f0dbbb6
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Wed May 19 23:51:37 2021 +0200
+
+    working on employee cards
+
+commit 2c5c603e21d2caf66b54f0132540311f243878d1
+Merge: 18bd184 4ee9de4
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Wed May 19 13:50:59 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 18bd1849cf5e5d93328fc8dad9101ef7a3822ae4
+Author: Lars Ole Algrøy <Lars_ole_algroy@outlook.com>
+Date:   Wed May 19 13:50:49 2021 +0200
+
+    Making framework for basic html
+    
+    Made framework for the design in html. Christoffer has made small adjustments to js files.
+    Do not use live server on different files
+
+commit 4ee9de42d372b778881d5d5c89f25fd2ee23ff5a
+Merge: 444872c 5aff142
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 19 13:35:51 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit 444872ccfbf0bfb97c3272b5fffc9a6f09b1ee32
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 19 13:35:47 2021 +0200
+
+    Updated readme
+
+commit 4c3109eef1e2bc2570e744de6f053de66ea7fe7b
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 19 13:31:05 2021 +0200
+
+    Removed node_modules
+
+commit 5aff1422bcd8908948c3f4c71a55999e268e42ee
+Merge: f9a1985 c90708b
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Wed May 19 13:29:44 2021 +0200
+
+    Merge branch 'main' of https://github.com/godvik/PRO104-Eksamen into main
+
+commit f9a1985b8622e41792157d6a26afa3b181795120
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Wed May 19 13:29:32 2021 +0200
+
+    added employee module
+
+commit c90708b2005ca98cd2ae8aa7a6d145b620a5a6a1
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 19 13:14:00 2021 +0200
+
+    package .json
+
+commit 42a5717bee9bd2bcb41f2f9b17c382c8ca232fbd
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 19 13:06:07 2021 +0200
+
+    Fixed css and added node modules to gitignore
+
+commit ab4dafa865388fac371e9bb4d2899d4f82cdfc80
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 19 12:56:55 2021 +0200
+
+    Tailwind implemented.
+
+commit 49f49f5f292d558fd7215f1a3e955e6d0efe3cfd
+Author: Christoffer Østborg <chos002@EGMS.no>
+Date:   Wed May 19 12:48:55 2021 +0200
+
+    added all initial files
+
+commit acb4afb7370c7fb8bb66798db258e82a344fe682
+Author: ChristofferEastcastle <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Wed May 19 12:37:39 2021 +0200
+
+    Create restaurants.html
+
+commit 88654060c359ad7f1c8e9db591e5cdd3ef314b7b
+Author: ChristofferEastcastle <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Wed May 19 12:37:22 2021 +0200
+
+    Create employees.html
+
+commit 2322933400cf6c5ec2f72d55f77677f3208f5b72
+Author: ChristofferEastcastle <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Wed May 19 12:35:42 2021 +0200
+
+    Create sales.html
+
+commit 049e82dd879d1fb15d8059f381730328fb29ebf3
+Author: ChristofferEastcastle <58327928+ChristofferEastcastle@users.noreply.github.com>
+Date:   Wed May 19 12:33:41 2021 +0200
+
+    Create index.html
+
+commit 85a29668ae9d7a35c57a2344b26ff2b255d47034
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 19 11:17:45 2021 +0200
+
+    Modified gitignore file
+
+commit 2cbc35548c93e35154e1a110d1405490a1c8f7b3
+Author: Ørjan Skotnes <69791988+OrjanSkotnes@users.noreply.github.com>
+Date:   Wed May 19 11:15:30 2021 +0200
+
+    created gitignore file
+
+commit 110e16627a356bc707032235629e58d3a3e7bed3
+Author: godvik <32129757+godvik@users.noreply.github.com>
+Date:   Wed May 19 10:29:28 2021 +0200
+
+    Initial commit
